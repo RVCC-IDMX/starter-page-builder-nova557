@@ -13,5 +13,13 @@
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "sass": "^1.32.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/starter-page-builder-nova557.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/starter-page-builder-nova557/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/starter-page-builder-nova557#readme"
 }
