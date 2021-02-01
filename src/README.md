@@ -1,5 +1,15 @@
-# Documentation
+# File Structure
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod ullam culpa similique doloremque quidem accusantium veniam recusandae ipsam facilis libero?
-
-Illum nisi culpa dicta atque ut recusandae reiciendis doloribus quis eos voluptas deserunt inventore id, repellat ipsa dolore enim quod voluptates fuga debitis perferendis cum, quia nobis nesciunt. Est possimus fugit nam.
+|---- scss/
+| |---- _main.scss
+| |---- utilities/
+| | |---- _functions.scss
+| | |---- _variables.scss
+| | |---- _mixins.scss
+| |---- base/
+| | |---- _typography.scss
+| | |---- _reset.scss
+| |---- components/
+| | |---- _header.scss
+| |---- pages/
+| | |---- _home.scss
